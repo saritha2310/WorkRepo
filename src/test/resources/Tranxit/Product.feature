@@ -41,6 +41,7 @@ Feature:
     And the price should display
     And the review link should display
     And the product should be able to add to cart
+    //Then the success message should display
 
 
     Examples:
